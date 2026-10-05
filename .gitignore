@@ -88,3 +88,11 @@ data/gold/
 *.npy
 *.npz
 *.parquet
+
+# Local exported RAG / embedding artifacts
+*.npy
+*.npz
+*.parquet
+
+# Allow the embedding file required for online deployment
+!data/rag/supportiq_embeddings.parquet

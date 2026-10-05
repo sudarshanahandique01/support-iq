@@ -1335,3 +1335,13 @@ body,
     color: #8291a7 !important;
     font-size: 13px !important;
 }
+
+
+/* =========================================
+   AI RESPONSE SECTION HEADINGS
+   ========================================= */
+
+.stChatMessage h3 {
+    color: #38BDF8 !important;
+    font-weight: 700 !important;
+}
